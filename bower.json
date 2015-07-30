@@ -1,0 +1,28 @@
+{
+  "name": "iv_bower",
+  "version": "0.0.1",
+  "description": "iv_bower",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "iv"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jquery1.11.3": "jquery#1.11.3",
+    "jquery1.9.1": "jquery#1.9.1",
+    "requirejs": "~2.1.19",
+    "nanoscroller": "~0.8.7"
+  }
+}
